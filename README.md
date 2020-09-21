@@ -1,4 +1,4 @@
-# Playground moriya dechtiar
+# Playground bianca cordazzo
 
 A place to play with `git`.
 
